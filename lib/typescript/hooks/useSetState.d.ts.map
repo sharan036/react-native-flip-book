@@ -1,0 +1,1 @@
+{"version":3,"file":"useSetState.d.ts","sourceRoot":"","sources":["../../../src/hooks/useSetState.ts"],"names":[],"mappings":"AAGA,QAAA,MAAM,WAAW,GAAI,CAAC,SAAS,MAAM,EACnC,eAAc,CAAW,KACxB,CAAC,CAAC,EAAE,CAAC,KAAK,EAAE,OAAO,CAAC,CAAC,CAAC,GAAG,CAAC,CAAC,SAAS,EAAE,CAAC,KAAK,OAAO,CAAC,CAAC,CAAC,CAAC,KAAK,IAAI,CAclE,CAAC;AAEF,eAAe,WAAW,CAAC"}

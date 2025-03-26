@@ -4,7 +4,7 @@ Check out the [demo](https://sharan036.github.io/react-native-flip-book/) here
 ## Installation
 
 ```sh
-yarn add react-native-page-flipper
+yarn add react-native-flip-book
 ```
 
 In order for this package to work properly, its built using expo-linear-gradient,react-native-gesture-handler,react-native-linear-gradient, and react-native-reanimated. So make sure you also have these installed,
@@ -33,7 +33,7 @@ in order to avoid page flickering with images, use react-native-fast-image as yo
 ## Usage
 
 ```
-import PageFlipper from 'react-native-page-flipper';
+import PageFlipper from 'react-native-flip-book';
 
 const App = () => {
     return (

@@ -1,5 +1,5 @@
 This package allows you use a cool page curl effect on your React Native apps, it works on Android, iOS, and Web.
-Check out the [demo](https://sharan036.github.io/react-native-page-flipper/) here
+Check out the [demo](https://sharan036.github.io/react-native-flip-book/) here
 
 ## Installation
 
